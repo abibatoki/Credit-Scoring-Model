@@ -15,6 +15,8 @@ This project focuses on building a credit scoring model for a fictional bank cal
 - xgboost, random forest
 - seaborn, matplotlib
 - Streamlit (for dashboard — coming soon)
+- Credit Score: https://www.investopedia.com/terms/c/credit_score.asp
+- ROC Curve: https://towardsdatascience.com/understanding-the-roc-curve-and-auc-dd4f9a192ecb/
 -  💡 **Interpretation of model probabilities and profitability analysis** was inspired by this YouTube video:  
   [Credit Risk Modelling | Interpretation and Business Recommendation]([https://www.youtube.com/watch?v=xyz123abc](https://www.youtube.com/watch?v=8jzvzRo3Ij0&t=1271s)  
 
